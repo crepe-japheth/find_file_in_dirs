@@ -52,6 +52,9 @@ Welcome to File Explorer! This is a simple command-line tool designed to help yo
 
     Feel free to modify the code according to your requirements or contribute to the project by opening a pull request.
 
+#Note
+###The file with name ~file_analysis.py~ was first used as function way of implementing the same functionality but was update to object oriented
+
 ## Example
 
 Here's an example of how the output CSV file might look:
@@ -60,7 +63,8 @@ Here's an example of how the output CSV file might look:
 File Path,Extension,Modified Time,Accessed Time,Created Time
 /path/to/file1.txt,txt,2024-02-27 10:15:32,2024-02-27 10:15:32,2024-02-25 14:20:10
 /path/to/file2.csv,csv,2024-02-26 15:45:21,2024-02-26 15:45:21,2024-02-25 14:20:10
-...
+...```
 
-#Note
-###The file with name ~file_analysis.py~ was first used as function way of implementing the same functionality but was update to object oriented
+
+
+

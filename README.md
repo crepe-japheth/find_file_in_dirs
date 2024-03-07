@@ -1,6 +1,6 @@
 # File Explorer
 
-Welcome to File Explorer! This is a simple command-line tool designed to help you explore files within a specified directory path. It provides details like file extension, modification time, access time, and creation time for each file found in the given directory.
+Welcome to File Explorer! This is a simple command-line tool designed to help you explore files within a specified directory path. It provides details like file extension, modification time, access time, and creation time for each file found in the given directory. not only file explorer but you can also see the file that are the same in that directory and search a specific text, words or paragraph in all that return file in directory with specific extensions
 
 ## How to Use
 
@@ -15,6 +15,11 @@ Welcome to File Explorer! This is a simple command-line tool designed to help yo
     ```bash
     cd find_file_in_dirs
     ```
+2. **create virtual environments (optional):**
+
+    ```bash
+    python -m venv env
+    ```
 
 3. **Install Dependencies (if any):**
 
@@ -27,7 +32,7 @@ Welcome to File Explorer! This is a simple command-line tool designed to help yo
 4. **Run the Application:**
 
     ```bash
-    python file_analysis.py
+    python main.py
     ```
 
 5. **Enter the Path:**
@@ -37,8 +42,13 @@ Welcome to File Explorer! This is a simple command-line tool designed to help yo
 6. **Review Results:**
 
     After entering the path, the application will generate a CSV file containing information about all the files in the specified directory. This includes details such as file extension, modification time, access time, and creation time.
+   
+7. **The application will continue to ask you more further action like search, compare files etc:**
 
-7. **Explore Further:**
+    after getting your csv file, keep explorer more action or quit the application if you want
+
+
+8. **Explore Further:**
 
     Feel free to modify the code according to your requirements or contribute to the project by opening a pull request.
 

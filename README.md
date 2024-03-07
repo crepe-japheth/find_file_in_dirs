@@ -61,3 +61,6 @@ File Path,Extension,Modified Time,Accessed Time,Created Time
 /path/to/file1.txt,txt,2024-02-27 10:15:32,2024-02-27 10:15:32,2024-02-25 14:20:10
 /path/to/file2.csv,csv,2024-02-26 15:45:21,2024-02-26 15:45:21,2024-02-25 14:20:10
 ...
+
+#Note
+###The file with name ~file_analysis.py~ was first used as function way of implementing the same functionality but was update to object oriented

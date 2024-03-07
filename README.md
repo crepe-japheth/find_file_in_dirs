@@ -52,8 +52,8 @@ Welcome to File Explorer! This is a simple command-line tool designed to help yo
 
     Feel free to modify the code according to your requirements or contribute to the project by opening a pull request.
 
-#Note
-###The file with name ~file_analysis.py~ was first used as function way of implementing the same functionality but was update to object oriented
+9. **Note:**
+The file with name ~file_analysis.py~ was first used as function way of implementing the same functionality but was update to object oriented
 
 ## Example
 
